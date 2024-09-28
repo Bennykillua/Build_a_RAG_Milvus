@@ -1,0 +1,6 @@
+streamlit
+pymilvus
+openai
+requests
+tqdm
+streamlit 
